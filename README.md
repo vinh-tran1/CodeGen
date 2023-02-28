@@ -1,1 +1,1 @@
-# CodeGen
+# Toy Compiler
